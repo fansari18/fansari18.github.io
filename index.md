@@ -6,7 +6,7 @@ Hi y'all, welcome to my page! I'm a fourth year Math-CS major a UCSD whos loves 
 Her nickname is [neebu](IMG_7420.JPG)
 
 ## Me
-**Here is a pic of ![me] **
+**Here is a pic of ![me](IMG_7789.jpg)**
 
 
 
