@@ -1,8 +1,36 @@
-## Welcome to GitHub Pages
+# Welcome to Farheen's Page
 
-You can use the [editor on GitHub](https://github.com/fansari18/fansari18.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi y'all, welcome to my page! I'm a fourth year Math-CS major a UCSD whos loves the outdoors, runnning, baking and most importantly my cat.
+*Here's a picture of my cat Nebula Stark*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+## Me
+**Here is a pic of me **
+
+Here is my [linkedin page](https://www.linkedin.com/in/farheen-a/). 
+
+
+### Food
+I love tacos, krispy kreme, brussel sprouts, avocodos, green beans, and all things indian and italian.
+
+Wait, just joking:
+I love tacos, krispy kreme, brussel sprouts, avocodos, ~~green beans~~, and all things indian and italian.
+
+I actaully like most foods except:
+> green beans
+
+
+### Learn some git!
+Use `git branch` to create a new branch 
+
+Some basic git commands are:
+```
+git add
+git commit
+git pull
+```
 
 ### Markdown
 
