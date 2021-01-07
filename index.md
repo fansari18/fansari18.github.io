@@ -3,6 +3,8 @@
 Hi y'all, welcome to my page! I'm a fourth year Math-CS major a UCSD whos loves the outdoors, runnning, baking and most importantly my cat.
 *Here's a picture of my cat Nebula Stark*
 
+Her nickname is [neebu](IMG_7420.JPG)
+
 ## Me
 **Here is a pic of me **
 
