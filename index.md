@@ -6,8 +6,10 @@ Hi y'all, welcome to my page! I'm a fourth year Math-CS major a UCSD whos loves 
 ## Me
 **Here is a pic of me **
 
+
 Here is my [linkedin page](https://www.linkedin.com/in/farheen-a/). 
 
+Here is my [readme](README.MD)
 
 ### Food
 I love tacos, krispy kreme, brussel sprouts, avocodos, green beans, and all things indian and italian.
