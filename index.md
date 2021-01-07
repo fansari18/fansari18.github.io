@@ -3,9 +3,6 @@
 Hi y'all, welcome to my page! I'm a fourth year Math-CS major a UCSD whos loves the outdoors, runnning, baking and most importantly my cat.
 *Here's a picture of my cat Nebula Stark*
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 ## Me
 **Here is a pic of me **
 
