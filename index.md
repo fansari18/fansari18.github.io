@@ -11,16 +11,47 @@ Her nickname is [neebu](IMG_7420.JPG)
 
 Here is my [linkedin page](https://www.linkedin.com/in/farheen-a/). 
 
-Here is my [readme](README.MD)
-
 ### Food
-I love tacos, krispy kreme, brussel sprouts, avocodos, green beans, and all things indian and italian.
+I love tacos, brussel sprouts, krispy kreme, avocodos, green beans, and all things indian and italian.
 
 Wait, just joking:
-I love tacos, krispy kreme, brussel sprouts, avocodos, ~~green beans~~, and all things indian and italian.
+I love tacos, brussel sprouts, krispy kreme, avocodos, ~~green beans~~, and all things indian and italian.
 
 I actaully like most foods except:
 > green beans
+
+My top 2 foods from this list are:
+- [x] Tacos
+- [ ] Brussel sprouts
+- [x] Krsipy kreme
+- [ ] Avocodos
+- [ ] Indian Food
+- [ ] Italian Food
+
+
+
+### Travel
+Places I have visited are 
+- London
+- India
+- New York
+- Washington D.C
+
+Places I want to visit are 
+- 1. Rio
+- 2. Norway
+- 3. Spain
+- 4. Dubai
+- 5. Japan
+- 6. Bali
+
+Do I want to do toursity things or resort things?
+- Rio
+  - tour
+- Norway
+  - tour
+ - Bali
+   - resorty
 
 
 ### Learn some git!
@@ -33,34 +64,4 @@ git commit
 git pull
 ```
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fansari18/fansari18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
